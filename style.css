@@ -1,0 +1,126 @@
+* {
+
+    margin: 0px;
+    padding: 0px;
+}
+body {
+
+    background-color: #51b9bc;
+}
+
+fieldset{
+
+    width: 30%;
+    margin: auto;
+    background-color: white;
+    margin-top: 80px;
+    border: none;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px gray;
+}
+
+.heading h1 {
+
+    text-align: center;
+    color: white;
+    background-color: aqua;
+    padding: 20px 20px;
+}
+
+.role {
+
+    text-align: center;
+    margin-top: 20px;
+}
+
+.role label {
+
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.role .gender {
+
+    display: inline;
+    padding: 0px 25px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.username {
+
+    margin: 20px 20px;
+}
+
+.username input {
+
+    border: none;
+    outline: none;
+    width: 75%;
+    border-bottom: 4px solid #51b9bc;
+    
+}
+
+.username h2 {
+
+    margin-bottom: 15px;
+
+}
+
+.username img {
+
+    background-color: #51b9bc;
+    padding: 10px 15px;
+    
+}
+
+.password {
+
+    margin: 20px 20px;    
+}
+
+.password input {
+
+    border: none;
+    outline: none;
+    width: 75%;
+    border-bottom: 4px solid #51b9bc;
+}
+.password h2 {
+    
+    margin-bottom: 15px;
+
+}
+
+.password img {
+
+    background-color: #51b9bc;
+    padding: 10px 15px;
+}
+
+.button button {
+
+    padding: 17px 85px;
+    background-color: rgb(77, 230, 222);
+    font-weight: bold;
+    color: white;
+    border: none;
+    border-radius: 13px;
+    margin-top: 15px;
+}
+
+.link {
+
+    margin: 20px 0px;
+}
+
+.link h3 {
+
+    text-align: center;
+    
+}
+
+.link h3 a {
+
+    color:royalblue;
+}
